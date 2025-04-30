@@ -1,4 +1,5 @@
 # 👋 Hello World
+# About me:
 👨‍💻 - Studying information technology <br>🧠 - Basic experience in HTML, CSS and Javascript<br>
 
 
